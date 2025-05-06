@@ -19,7 +19,7 @@ import {
 
 /**
  * Moves all the attributes from a given elmenet to another given element.
- * @param {Element} from the element to copy attributes from
+ * @param {Element} from the element to copy attributes from 
  * @param {Element} to the element to copy attributes to
  */
 export function moveAttributes(from, to, attributes) {
